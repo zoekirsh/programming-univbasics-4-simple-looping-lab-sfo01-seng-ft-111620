@@ -1,6 +1,3 @@
-# Remove Examples and Rename File Before Committing
-# Helper methods for reading HTML and CSS available in spec_helper.rb
-
 require 'spec_helper'
 
 describe 'loop_message_five_times' do
